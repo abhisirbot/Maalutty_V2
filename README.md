@@ -35,7 +35,7 @@ get extra feturs use maalutty v3😍⏬
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhisirbot/Maalutty_V2/edit/master/README.md
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhisirbot/Maalutty_V2?organization=abhisirbot&organization=abhisirbot
  
 ### The Hard Method
 ```js
